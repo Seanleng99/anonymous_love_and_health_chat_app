@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974764629300",
+    "project_id": "anonymous-love-and-health-chat",
+    "storage_bucket": "anonymous-love-and-health-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974764629300:android:f79d361aeaa4cca21c9961",
+        "android_client_info": {
+          "package_name": "com.example.anonymous_love_and_health_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974764629300-cg1bumn6j21u2c01hc7stlbdh31o41t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEuPeOEFCaKh5imY4t-HrNU76nC3IYwcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974764629300-cg1bumn6j21u2c01hc7stlbdh31o41t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
