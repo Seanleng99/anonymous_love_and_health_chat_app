@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "974764629300",
+    "firebase_url": "https://anonymous-love-and-health-chat-default-rtdb.firebaseio.com",
     "project_id": "anonymous-love-and-health-chat",
     "storage_bucket": "anonymous-love-and-health-chat.appspot.com"
   },
@@ -13,6 +14,51 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "974764629300-keoohtkmcdsprf5ocu4vcn738n0bpjjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anonymous_love_and_health_chat",
+            "certificate_hash": "b1adf2925ba3e989a2d9f895b7539bf2baceeeb2"
+          }
+        },
+        {
+          "client_id": "974764629300-cg1bumn6j21u2c01hc7stlbdh31o41t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEuPeOEFCaKh5imY4t-HrNU76nC3IYwcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974764629300-cg1bumn6j21u2c01hc7stlbdh31o41t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974764629300:android:f21c2549a3e50a1a1c9961",
+        "android_client_info": {
+          "package_name": "com.seanleng99.anonymous_love_and_health_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974764629300-2f71uuap19905uq45tfhaif8gs7julvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seanleng99.anonymous_love_and_health_chat",
+            "certificate_hash": "b1adf2925ba3e989a2d9f895b7539bf2baceeeb2"
+          }
+        },
         {
           "client_id": "974764629300-cg1bumn6j21u2c01hc7stlbdh31o41t0.apps.googleusercontent.com",
           "client_type": 3
